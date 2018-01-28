@@ -1,2 +1,5 @@
 node_modules
 .DS_Store
+._.gitignore
+._GruntFile.js
+._img
