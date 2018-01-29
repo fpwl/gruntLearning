@@ -1,3 +1,3 @@
 $(document).ready(function () {
-	console.log('hello IT WORKS!!!');
+	console.log('hello IT WORKS MWHAHAHAHHAHA!!!');
 });
